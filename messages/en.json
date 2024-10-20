@@ -1,0 +1,15 @@
+{
+  "Metadata": {
+    "title": "Jobs, job postings, job search",
+    "description": "Go to the about page"
+  },
+	"Header": {
+		"name_help": "help"
+	},
+	"HelpModal": {
+		"name_title": "Need help",
+		"name_subtitle": "Write to us by mail, or find an answer in the previously asked questions",
+		"name_mail_btn": "Write to the mail",
+		"name_faq_btn": "Find the answer"
+	}
+}

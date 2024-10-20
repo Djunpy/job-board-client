@@ -1,0 +1,7 @@
+.text {
+	@apply text-gray-50;
+}
+
+.bg{
+	@apply bg-blue-950 shadow-lg backdrop:blur-lg;
+}

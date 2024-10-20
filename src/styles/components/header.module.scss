@@ -1,0 +1,22 @@
+.header{
+	@apply fixed;
+}
+
+.top_header {
+	@apply bg-gray-400 pl-3 pr-3 flex items-center justify-between;
+	button{
+		@apply uppercase hover:text-gray-600;
+	}
+}
+
+.down_header {
+	@apply h-[70px] w-full flex justify-between items-center p-3;
+}
+
+.logo_wrap {
+	@apply rounded-full bg-gray-50 w-12 h-12 relative;
+}
+
+.logo_icon {
+	@apply fill-blue-950;
+}

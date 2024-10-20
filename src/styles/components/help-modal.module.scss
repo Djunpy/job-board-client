@@ -1,0 +1,26 @@
+.modal_content{
+	@apply w-96 sm:w-auto;
+}
+
+.header {
+	@apply flex text-center flex-col gap-1;
+
+	p{
+		@apply text-sm font-normal ;
+	}
+}
+
+.body {
+	@apply flex flex-row justify-around;
+}
+
+.body_link{
+	@apply text-gray-500 border-2  border-gray-200 border-solid p-5 flex items-center rounded-2xl gap-x-5 hover:border-gray-300 transition-colors text-small flex-col w-full sm:text-sm sm:flex-row lg:text-lg lg:w-72;
+	span{
+		@apply hidden sm:block;
+	}
+}
+
+.body_icon{
+	@apply w-8 h-8 md:w-10 md:h-10 fill-gray-500; 
+}

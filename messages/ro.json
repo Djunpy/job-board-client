@@ -1,0 +1,15 @@
+{
+  "Metadata": {
+    "title": "Descrierea paginii de start",
+    "description": "Locuri de muncă, postarea posturilor vacante, căutarea unui loc de muncă"
+  },
+	"Header": {
+		"name_help": "Ajutor"
+	},
+	"HelpModal": {
+		"name_title": "Aveți nevoie de ajutor",
+		"name_subtitle": "Scrieți -ne prin poștă sau găsiți un răspuns la întrebările adresate anterior",
+		"name_mail_btn": "Scrieți pe e-mail",
+		"name_faq_btn": "Găsiți răspunsul"
+	}
+}
